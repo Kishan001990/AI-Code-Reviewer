@@ -1,5 +1,5 @@
 
-# 🛡️ PATCHPILOT
+# 🛡️ AI CODE REVIEWER
 
 **Code Quality Guardian** is your AI-powered teammate that helps keep your code safe, clean, and ready to ship.
 
